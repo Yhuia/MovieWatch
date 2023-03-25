@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+}
+
+.image{
+    height: 40px;
+}
+
+.title{
+    font-size: 1.4em;
+    padding: 2%;
+}
+
+.subtitle{
+    margin-left: 3%;
+    white-space: nowrap;
+}
